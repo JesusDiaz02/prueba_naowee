@@ -1,0 +1,2 @@
+se realizo la primera parte de la prueba, la busqueda en la base de datos sql.
+la creacion de los crud en laravel intente hacerlo lo mejor que pude con el conocimiento que tengo sobre este tema.
